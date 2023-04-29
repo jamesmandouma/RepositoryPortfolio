@@ -1,0 +1,9 @@
+git submodule add https://github.com/jamesmandouma/Deliverable1_HelloWorld repos
+git submodule add https://github.com/jamesmandouma/ConditionalStatementDeliverable repos
+git submodule add https://github.com/jamesmandouma/Deliverable_3 repos
+git submodule add https://github.com/jamesmandouma/Deliverable_4 repos
+git submodule add https://github.com/jamesmandouma/Deliverable_5 repos
+git submodule add https://github.com/jamesmandouma/Deliverable_6 repos
+git submodule add https://github.com/jamesmandouma/Deliverable_7 repos
+git submodule add https://github.com/jamesmandouma/Deliverable_8 repos
+git submodule add https://github.com/jamesmandouma/Deliverable_9 repos
