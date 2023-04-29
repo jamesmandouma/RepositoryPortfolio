@@ -1,0 +1,27 @@
+[submodule "Deliverable1"]
+	path = Deliverable1
+	url = https://github.com/jamesmandouma/Deliverable1_HelloWorld
+[submodule "Deliverable2"]
+	path = Deliverable2
+	url = https://github.com/jamesmandouma/ConditionalStatementDeliverable
+[submodule "Deliverable3"]
+	path = Deliverable3
+	url = https://github.com/jamesmandouma/Deliverable_3
+[submodule "Deliverable4"]
+	path = Deliverable4
+	url = https://github.com/jamesmandouma/Deliverable_4
+[submodule "Deliverable5"]
+	path = Deliverable5
+	url = https://github.com/jamesmandouma/Deliverable_5
+[submodule "Deliverable6"]
+	path = Deliverable6
+	url = https://github.com/jamesmandouma/Deliverable_6
+[submodule "Deliverable7"]
+	path = Deliverable7
+	url = https://github.com/jamesmandouma/Deliverable_7
+[submodule "Deliverable8"]
+	path = Deliverable8
+	url = https://github.com/jamesmandouma/Deliverable_8
+[submodule "DeliverableFinal"]
+	path = DeliverableFinal
+	url = https://github.com/jamesmandouma/Deliverable_9
