@@ -1,9 +1,10 @@
-git submodule add https://github.com/jamesmandouma/Deliverable1_HelloWorld repos
-git submodule add https://github.com/jamesmandouma/ConditionalStatementDeliverable repos
-git submodule add https://github.com/jamesmandouma/Deliverable_3 repos
-git submodule add https://github.com/jamesmandouma/Deliverable_4 repos
-git submodule add https://github.com/jamesmandouma/Deliverable_5 repos
-git submodule add https://github.com/jamesmandouma/Deliverable_6 repos
-git submodule add https://github.com/jamesmandouma/Deliverable_7 repos
-git submodule add https://github.com/jamesmandouma/Deliverable_8 repos
-git submodule add https://github.com/jamesmandouma/Deliverable_9 repos
+-- code used in cmd to add repositories to portfolio
+git submodule add https://github.com/jamesmandouma/Deliverable1_HelloWorld Deliverable1
+git submodule add https://github.com/jamesmandouma/ConditionalStatementDeliverable Deliverable2
+git submodule add https://github.com/jamesmandouma/Deliverable_3 Deliverable3
+git submodule add https://github.com/jamesmandouma/Deliverable_4 Deliverable4
+git submodule add https://github.com/jamesmandouma/Deliverable_5 Deliverable5
+git submodule add https://github.com/jamesmandouma/Deliverable_6 Deliverable6
+git submodule add https://github.com/jamesmandouma/Deliverable_7 Deliverable7
+git submodule add https://github.com/jamesmandouma/Deliverable_8 Deliverable8
+git submodule add https://github.com/jamesmandouma/Deliverable_9 Deliverable9
